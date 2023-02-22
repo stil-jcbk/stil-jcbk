@@ -39,6 +39,6 @@ I've been learning to code for 2 years. I've found frontend dev very good for me
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/stil-jcbk"><img src="https://github-readme-stats.vercel.app/api?username=stil-jcbk&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="stil-jcbk's GitHub stats" /></a>
+<a href="http://www.github.com/stil-jcbk"><img src="https://github-readme-stats.vercel.app/api?username=stil-jcbk&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&show_icons=true" alt="stil-jcbk's GitHub stats" /></a>
 
-<a href="https://github.com/stil-jcbk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stil-jcbk&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/stil-jcbk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stil-jcbk&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
