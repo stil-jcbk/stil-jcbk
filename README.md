@@ -7,7 +7,7 @@ Frontend Developer
 I've been learning to code for 2 years. I've found frontend dev very good for me because of my previous experience with graphic and motion design.
 
 * 🌍  I'm based in Wrocław, Poland
-* 🖥️  See my portfolio at [jcbkdev](http://jcbkdev.pl)
+* 🖥️  See my portfolio at [jcbk](https://jcbk.pl)
 * ✉️  You can contact me at [contact@jcbk.pl](mailto:contact@jcbk.pl)
 * 🧠  I'm learning ReactJS, Typescript and React Native
 * ⚡  I'm a very creative person with passion for coding and learning new things
