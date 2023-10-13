@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I've been learning to code for 2 years. I've found frontend dev very good for me because of my previous experience with graphic and motion design.
+I've been learning to code for 2 years. I've found frontend dev very good for me because of my previous experience with graphic design.
 
 * 🌍  I'm based in Wrocław, Poland
 * 🖥️  See my portfolio at [jcbk](https://jcbk.pl)
