@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I’ve been coding for two years, with a strong focus on frontend development. My background in graphic design enhances my ability to create visually appealing web interfaces.
+I’ve been coding for three years, with a strong focus on frontend development. My background in graphic design enhances my ability to create visually appealing web interfaces.
 
 * 🌍  I'm based in Wrocław, Poland
 * 🖥️  See my portfolio at [jcbk](https://jcbk.pl)
