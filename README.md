@@ -8,7 +8,7 @@ I’ve been coding for three years, with a strong focus on frontend development.
 
 * 🌍  I'm based in Wrocław, Poland
 * 🖥️  See my portfolio at [jcbk](https://jcbk.pl)
-* ✉️  You can contact me at [contact@jcbk.pl](mailto:contact@jcbk.pl)
+* ✉️  You can contact me at [jcbkdev@gmail.com](mailto:jcbkdev@gmail.com)
 * 🧠  I'm learning ReactJS, Typescript and React Native
 * ⚡  I'm a very creative person with passion for coding and learning new things
 
