@@ -4,16 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I’ve been coding for three years, with a strong focus on frontend development. My background in graphic design enhances my ability to create visually appealing web interfaces.
+I love every part of beign a frontend developer, from creating a design to coding. I love to solve problems, so every aspect of coding to me is just like a puzzle to solve.
 
 * 🌍  I'm based in Wrocław, Poland
 * 🖥️  See my portfolio at [jcbk](https://jcbk.pl)
 * ✉️  You can contact me at [jcbkdev@gmail.com](mailto:jcbkdev@gmail.com)
-* 🧠  I'm learning ReactJS, Typescript and React Native
-* ⚡  I'm a very creative person with passion for coding and learning new things
 
-### Skills
-
+ 
+ ### Skills
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
