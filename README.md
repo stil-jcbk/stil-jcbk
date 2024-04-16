@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I love every part of beign a frontend developer, from creating a design to coding. I love to solve problems, so every aspect of coding to me is just like a puzzle to solve.
+I love every part of being a frontend developer, from creating a design to coding. I love to solve problems, so every aspect of coding is just like a puzzle to solve.
 
 * 🌍  I'm based in Wrocław, Poland
 * 🖥️  See my portfolio at [jcbk](https://jcbk.pl)
